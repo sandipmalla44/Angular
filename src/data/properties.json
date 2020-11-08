@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Sandy House",
+    "Type": "House",
+    "Price": 15000
+  },
+  {
+    "Id": 2,
+    "Name": "Hello House",
+    "Type": "Resort",
+    "Price": 60000
+  },
+  {
+    "Id": 3,
+    "Name": "Sandy Mandy",
+    "Type": "House",
+    "Price": 40000
+  },
+  {
+    "Id": 4,
+    "Name": "Home Stay",
+    "Type": "Bunglow",
+    "Price": 45000
+  },
+  {
+    "Id": 5,
+    "Name": "Home Stay",
+    "Type": "Bunglow",
+    "Price": 45000
+  },
+  {
+    "Id": 6,
+    "Name": "Home Stay",
+    "Type": "Bunglow",
+    "Price": 45000
+  }
+]
