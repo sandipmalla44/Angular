@@ -1,38 +1,49 @@
 [
   {
     "Id": 1,
+    "SellRent": 1,
     "Name": "Sandy House",
     "Type": "House",
-    "Price": 15000
+    "Price": 15000,
+    "Image": "house6"
   },
   {
     "Id": 2,
+    "SellRent": 1,
     "Name": "Hello House",
     "Type": "Resort",
-    "Price": 60000
+    "Price": 60000,
+    "Image": "house2"
   },
   {
     "Id": 3,
+    "SellRent": 2,
     "Name": "Sandy Mandy",
     "Type": "House",
-    "Price": 40000
+    "Price": 40000,
+    "Image": "house3"
   },
   {
     "Id": 4,
+    "SellRent": 1,
     "Name": "Home Stay",
     "Type": "Bunglow",
-    "Price": 45000
+    "Price": 45000,
+    "Image": "house4"
   },
   {
     "Id": 5,
-    "Name": "Home Stay",
-    "Type": "Bunglow",
-    "Price": 45000
+    "SellRent": 2,
+    "Name": "Stay Mansion",
+    "Type": "Mansion",
+    "Price": 45000,
+    "Image": "house5"
   },
   {
     "Id": 6,
-    "Name": "Home Stay",
+    "SellRent": 2,
+    "Name": "High Hill Bunglow",
     "Type": "Bunglow",
-    "Price": 45000
+    "Price": 15000
   }
 ]
